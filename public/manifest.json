@@ -1,0 +1,18 @@
+{
+  "short_name": "AnimeNihongo",
+  "name": "Anime Japanese 7-Day Masterclass",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/197/197604.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#10b981",
+  "description": "Learn Japanese for Anime in 7 days."
+}

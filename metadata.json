@@ -1,0 +1,7 @@
+{
+  "name": "Anime Japanese Masterclass (Bangla)",
+  "description": "অ্যানিমে এবং মুভি বোঝার জন্য জাপানি ভাষা শেখার একটি পূর্ণাঙ্গ কোর্স। বাংলা অর্থ এবং ভয়েস রিকগনিশন সহ।",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
